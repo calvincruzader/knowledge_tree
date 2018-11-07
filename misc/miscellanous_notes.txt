@@ -1,0 +1,3 @@
+Link to download JDK from Linux using several commands (wget magic is YUMmy):
+
+https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-linux-via-wget-is-shown-license-page-instead
